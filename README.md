@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ّzero.</h1>
-<h3 align="center">A roblox script developer/UI designer.</h3>
+<h3 align="center">A ROBLOX Script Developer/UI Designer and a WPF and WinForms UI Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacklightt&label=Profile%20views&color=0e75b6&style=flat" alt="blacklightt" /> </p>
 
-- 🔭 I’m currently working on [nothing]
+- 🔭 I’m currently working on [game development]
 
 - 🌱 I’m currently learning **C++**
 
-- ⚡ Fun fact **asadadasdasdasdasdasd**
+- ⚡ Fun fact **الله أكبر**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
