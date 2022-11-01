@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ّzero.</h1>
 <h3 align="center">A roblox script developer/UI designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbootylatinas&label=Profile%20views&color=0e75b6&style=flat" alt="blacklightt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacklightt&label=Profile%20views&color=0e75b6&style=flat" alt="blacklightt" /> </p>
 
 - 🔭 I’m currently working on [nothing]
 
@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blacklightt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="blacklightt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbootylatinas&show_icons=true&locale=en&theme=tokyonight" alt="bigbootylatinas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbootylatinas&show_icons=true&locale=en&theme=tokyonight" alt="blacklightt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="bigbootylatinas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="blacklightt" /></p>
