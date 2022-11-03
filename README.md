@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zz2ero&show_icons=true&locale=en&theme=tokyonight" alt="zz2ero" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zz2ero&&theme=tokyonight" alt="zz2ero"/></p>
+\
