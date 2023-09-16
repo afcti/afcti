@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm afct.</h1>
-<h3 align="center">A ROBLOX Script Developer and a aspiring UI/UX Designer</h3>
+<h3 align="center">A ROBLOX Script Developer and an aspiring UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zz2ero&label=Profile%20views&color=0e75b6&style=flat" alt="zz2ero" /> </p>
 
